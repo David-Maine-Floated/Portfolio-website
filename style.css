@@ -64,6 +64,10 @@ sup, .sup {
   padding: 1rem 1rem;
 }
 
+.card-body {
+  height: 200px;
+}
+
 .background-image {
   background-position: center center;
   background-size: cover;
@@ -148,4 +152,9 @@ header.p-section {
   left: -0.05em;
   padding: 0 0.25em;
   bottom: 0.2em;
+}
+
+.project-image {
+  height: 350px;
+  width: auto;
 }
