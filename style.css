@@ -158,3 +158,47 @@ header.p-section {
   height: 350px;
   width: auto;
 }
+
+.current-projs {
+  /* border: 1px red solid;
+  display: flex;
+  justify-content: center; */
+  margin-bottom: 40px;
+}
+
+.dan {
+  height: 100px;
+}
+
+.container-music {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.cardd {
+  width: 1300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.music-links {
+  width: 700px;
+  display: flex;
+  justify-content: space-between
+}
+
+.aside {
+  margin-bottom: 20px;
+}
+
+.music {
+  margin-bottom: 20px;
+}
+
+.music-link {
+  color: white;
+  text-decoration: none;
+}
