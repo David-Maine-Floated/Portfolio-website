@@ -210,3 +210,13 @@ header.p-section {
   align-items: center;
   flex-wrap: wrap;
 }
+
+.mt-5 {
+
+  display: flex;
+  justify-content: space-between;
+}
+
+#linkedIn {
+  margin-right: 5px;
+}
