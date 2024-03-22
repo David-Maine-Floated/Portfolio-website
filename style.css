@@ -210,3 +210,19 @@ header.p-section {
   align-items: center;
   flex-wrap: wrap;
 }
+/* 
+.mt-5 {
+
+  display: flex;
+  justify-content: space-betw;
+} */
+
+#linkedIn {
+  margin-right: 5px;
+}
+
+.favorite {
+  font-weight: 400;
+  font-size: 22px;
+  padding-left: 30px;
+}
